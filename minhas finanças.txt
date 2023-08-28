@@ -1,0 +1,19 @@
+* Minhas Finanças 
+
+Front-End: 
+- React 
+- HTML
+- CSS
+- Figma
+- Bootstrap 
+- Estilo do site em Branco e Laranja
+
+Back-End:
+- SQL 
+- MySQL
+
+API: 
+- Conseguir utilizar uma API que consiga pegar os valores em criptomoedas e enviar para o Site
+- Uso de API Rest 
+
+
